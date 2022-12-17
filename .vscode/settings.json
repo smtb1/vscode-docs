@@ -11,12 +11,14 @@
         "/Download"
     ],
     "cSpell.enableFiletypes": [
+        "!swift",
         "jsx-tags",
         "julia",
         "juliamarkdown",
         "lua",
         "powershell",
         "properties",
+        "shaderlab",
         "sql",
         "tex",
         "vb",
