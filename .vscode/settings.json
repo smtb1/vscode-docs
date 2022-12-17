@@ -11,6 +11,7 @@
         "/Download"
     ],
     "cSpell.enableFiletypes": [
+        "powershell",
         "properties",
         "sql",
         "vb",
