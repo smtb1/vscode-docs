@@ -11,6 +11,7 @@
         "/Download"
     ],
     "cSpell.enableFiletypes": [
+        "properties",
         "sql",
         "vb",
         "xml",
