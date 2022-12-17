@@ -11,6 +11,10 @@
         "/Download"
     ],
     "cSpell.enableFiletypes": [
+        "jsx-tags",
+        "julia",
+        "juliamarkdown",
+        "lua",
         "powershell",
         "properties",
         "sql",
