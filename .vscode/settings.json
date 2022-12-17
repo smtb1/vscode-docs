@@ -12,6 +12,7 @@
     ],
     "cSpell.enableFiletypes": [
         "sql",
+        "vb",
         "xml",
         "xsl"
     ]
