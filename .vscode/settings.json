@@ -1,6 +1,6 @@
 // Place your settings in this file to overwrite default and user settings.
 {
-    "editor.wordWrap": "on",
+    "editor.wordWrap": "wordWrapColumn",
     "files.eol": "\n",
     "files.trimTrailingWhitespace": true,
     "files.associations": {
@@ -38,5 +38,6 @@
         "vb",
         "xml",
         "xsl"
-    ]
+    ],
+    "editor.renderWhitespace": "boundary"
 }
